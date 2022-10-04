@@ -1,0 +1,9 @@
+F:\dotNET\NewApp\DMHelper\DMHelper.Core\bin\Debug\netstandard2.0\DMHelper.Core.deps.json
+F:\dotNET\NewApp\DMHelper\DMHelper.Core\bin\Debug\netstandard2.0\DMHelper.Core.dll
+F:\dotNET\NewApp\DMHelper\DMHelper.Core\bin\Debug\netstandard2.0\DMHelper.Core.pdb
+F:\dotNET\NewApp\DMHelper\DMHelper.Core\obj\Debug\netstandard2.0\DMHelper.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotNET\NewApp\DMHelper\DMHelper.Core\obj\Debug\netstandard2.0\DMHelper.Core.AssemblyInfoInputs.cache
+F:\dotNET\NewApp\DMHelper\DMHelper.Core\obj\Debug\netstandard2.0\DMHelper.Core.AssemblyInfo.cs
+F:\dotNET\NewApp\DMHelper\DMHelper.Core\obj\Debug\netstandard2.0\DMHelper.Core.csproj.CoreCompileInputs.cache
+F:\dotNET\NewApp\DMHelper\DMHelper.Core\obj\Debug\netstandard2.0\DMHelper.Core.dll
+F:\dotNET\NewApp\DMHelper\DMHelper.Core\obj\Debug\netstandard2.0\DMHelper.Core.pdb

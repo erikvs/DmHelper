@@ -1,0 +1,51 @@
+F:\dotNET\NewApp\DMHelper\DMHelper\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\Page.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\TextBlock.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\_FontSizes.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\bin\x86\Debug\net5.0-windows10.0.19041.0\Styles\_Thickness.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\CreateMonsterPage.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\EncountersPage.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\GenerateEncounterPage.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\MonstersPage.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\bin\x86\Debug\net5.0-windows10.0.19041.0\Views\ShellPage.xbf
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll
+F:\dotNET\NewApp\DMHelper\DMHelper (Package)\Images\SplashScreen.scale-200.png
+F:\dotNET\NewApp\DMHelper\DMHelper (Package)\Images\LockScreenLogo.scale-200.png
+F:\dotNET\NewApp\DMHelper\DMHelper (Package)\Images\Square150x150Logo.scale-200.png
+F:\dotNET\NewApp\DMHelper\DMHelper (Package)\Images\Square44x44Logo.scale-200.png
+F:\dotNET\NewApp\DMHelper\DMHelper (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+F:\dotNET\NewApp\DMHelper\DMHelper (Package)\Images\StoreLogo.png
+F:\dotNET\NewApp\DMHelper\DMHelper (Package)\Images\Wide310x150Logo.scale-200.png
+F:\dotNET\NewApp\DMHelper\DMHelper (Package)\Package.appinstaller
+F:\dotNET\NewApp\DMHelper\DMHelper (Package)\bin\x86\Debug\resources.pri
+C:\Users\Dreadalus\.nuget\packages\communitytoolkit.mvvm\7.0.3\lib\net5.0\CommunityToolkit.Mvvm.dll
+C:\Users\Dreadalus\.nuget\packages\microsoft.extensions.dependencyinjection\5.0.2\lib\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dreadalus\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dreadalus\.nuget\packages\microsoft.projectreunion.foundation\0.8.0\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\Dreadalus\.nuget\packages\microsoft.projectreunion.winui\0.8.0\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\Dreadalus\.nuget\packages\microsoft.xaml.behaviors.winui.managed\2.0.4\lib\net5.0-windows10.0.18362.0\Microsoft.Xaml.Interactions.dll
+C:\Users\Dreadalus\.nuget\packages\microsoft.xaml.behaviors.winui.managed\2.0.4\lib\net5.0-windows10.0.18362.0\Microsoft.Xaml.Interactivity.dll
+C:\Users\Dreadalus\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\Dreadalus\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\WinRT.Runtime.dll
+F:\dotNET\NewApp\DMHelper\DMHelper.Core\bin\Debug\netstandard2.0\DMHelper.Core.dll
+F:\dotNET\NewApp\DMHelper\DMHelper.Core\bin\Debug\netstandard2.0\DMHelper.Core.pdb
+F:\dotNET\NewApp\DMHelper\DMHelper\bin\x86\Debug\net5.0-windows10.0.19041.0\DMHelper.deps.json
+F:\dotNET\NewApp\DMHelper\DMHelper\bin\x86\Debug\net5.0-windows10.0.19041.0\DMHelper.runtimeconfig.dev.json
+F:\dotNET\NewApp\DMHelper\DMHelper\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\Page.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\TextBlock.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\_FontSizes.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\obj\x86\Debug\net5.0-windows10.0.19041.0\Styles\_Thickness.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\CreateMonsterPage.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\EncountersPage.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\GenerateEncounterPage.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\MonstersPage.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\obj\x86\Debug\net5.0-windows10.0.19041.0\Views\ShellPage.xbf
+F:\dotNET\NewApp\DMHelper\DMHelper\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe
+C:\Users\Dreadalus\.nuget\packages\communitytoolkit.mvvm\7.0.3\lib\net5.0\CommunityToolkit.Mvvm.pdb
+C:\Users\Dreadalus\.nuget\packages\microsoft.projectreunion.foundation\0.8.0\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.pdb
+C:\Users\Dreadalus\.nuget\packages\microsoft.xaml.behaviors.winui.managed\2.0.4\lib\net5.0-windows10.0.18362.0\Microsoft.Xaml.Interactions.pdb
+C:\Users\Dreadalus\.nuget\packages\microsoft.xaml.behaviors.winui.managed\2.0.4\lib\net5.0-windows10.0.18362.0\Microsoft.Xaml.Interactivity.pdb
+F:\dotNET\NewApp\DMHelper\DMHelper\bin\x86\Debug\net5.0-windows10.0.19041.0\DMHelper.runtimeconfig.json
+F:\dotNET\NewApp\DMHelper\DMHelper\bin\x86\Debug\net5.0-windows10.0.19041.0\DMHelper.dll
+F:\dotNET\NewApp\DMHelper\DMHelper\bin\x86\Debug\net5.0-windows10.0.19041.0\DMHelper.pdb

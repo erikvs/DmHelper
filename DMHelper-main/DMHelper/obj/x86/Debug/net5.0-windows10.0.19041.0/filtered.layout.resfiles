@@ -1,0 +1,10 @@
+App.xbf
+Styles\_FontSizes.xbf
+Styles\_Thickness.xbf
+Styles\Page.xbf
+Styles\TextBlock.xbf
+Views\CreateMonsterPage.xbf
+Views\EncountersPage.xbf
+Views\GenerateEncounterPage.xbf
+Views\MonstersPage.xbf
+Views\ShellPage.xbf
